@@ -1,0 +1,5 @@
+[[redirects]]
+from = "http://bhaskaraeducationalinstitutions.co.in/*"
+to = "https://bhaskaraeducationalinstitutions.co.in/:splat"
+status = 301
+force = true
